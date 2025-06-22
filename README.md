@@ -20,4 +20,3 @@ Outlier handling and text standardization
 
 Real-world data analytics scenario
 
-For any questions or collaborations, feel free to connect via https://www.linkedin.com/in/murugan26/
